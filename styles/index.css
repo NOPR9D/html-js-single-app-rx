@@ -1,0 +1,28 @@
+html,
+body {
+  height: 100%;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* reset all */
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  padding: 0.25em;
+}
+
+#app {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  align-self: center;
+}

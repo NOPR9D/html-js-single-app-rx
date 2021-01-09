@@ -1,0 +1,23 @@
+{
+  "name": "single-app-reactive",
+  "version": "1.0.0",
+  "description": "Single App With RxJs | From Scratch, no dependecies.",
+  "scripts": {
+    "dev": "npm run server",
+    "server": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOPROD/challenge-javascript-lafabrik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NOPROD/challenge-javascript-lafabrik/issues"
+  },
+  "homepage": "https://github.com/NOPROD/challenge-javascript-lafabrik#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
